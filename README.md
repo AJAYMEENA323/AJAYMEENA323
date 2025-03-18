@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is AJAYMEENA  and I'm a FULL TIME DEVELOPER START FRESH JOURNEY 2025 LEARNING PYTHON RUBY C++
+<h2 align="left">Hi 👋! My name is AJAYMEENA  and I'm a PART TIME DEVELOPER START FRESH JOURNEY 2025 LEARNING PYTHON RUBY C++
+@DR.DEVELOPER 
 
 ###
 
